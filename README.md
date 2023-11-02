@@ -22,10 +22,18 @@ Todoey is a lightweight and intuitive to-do list application built during my Flu
 
 
 ## User Interface
-1) Form to Input the Information:
-<img src="https://github.com/mayank29malhotra/InterVSim/blob/master/1.jpg?raw=true" alt="alt text" width="250px">
-<img src="https://github.com/mayank29malhotra/InterVSim/blob/master/2.jpg?raw=true" alt="alt text" width="250px">
+1) Tasks List
+<img src="https://github.com/mayank29malhotra/todoey_to_do_list/blob/master/5.jpg" alt="alt text" width="250px">
+<img src="https://github.com/mayank29malhotra/todoey_to_do_list/blob/master/2.jpg" alt="alt text" width="250px">
 
-2) Questions Generation on the Basis of the form Data
-<img src="https://github.com/mayank29malhotra/InterVSim/blob/master/3.jpg?raw=true" alt="alt text" width="250px">
+2) Completed Tasks:
+<img src="https://github.com/mayank29malhotra/todoey_to_do_list/blob/master/4.jpg" alt="alt text" width="250px">
+
+3) Add new Tasks:
+<img src="https://github.com/mayank29malhotra/todoey_to_do_list/blob/master/3.jpg" alt="alt text" width="250px">
+
+4) Delete Tasks:
+<img src="https://github.com/mayank29malhotra/todoey_to_do_list/blob/master/1.jpg" alt="alt text" width="250px">
+
+
 
