@@ -14,41 +14,9 @@ Todoey is a lightweight and intuitive to-do list application built during my Flu
 
 1. **Add a Task:** Tap the "+" button and enter your task in the provided field. Press "Add" to add the task to your list.
 
-2. **Delete a Task:** Swipe left on a task to reveal the delete button. Tap the delete button to remove the task from your list.
+2. **Delete a Task:** Long Press on a task to reveal the delete button. Tap the delete button to remove the task from your list.
 
-3. **Complete a Task:** Tap on a task to mark it as completed. Completed tasks are indicated by a checkmark.
+3. **Complete a Task:** Tap on a the check box of the task to mark it as completed. Completed tasks are indicated by a checkmark and crossed.
 
 4. **Persistent Storage:** Your tasks are automatically saved using shared preferences, ensuring that your to-do list persists even if you close the app.
 
-## Getting Started
-
-To get started with Todoey, follow these steps:
-
-1. **Clone the Repository:**
-   ```
-   git clone https://github.com/your-username/todoey.git
-   ```
-
-2. **Navigate to the Project Directory:**
-   ```
-   cd todoey
-   ```
-
-3. **Run the App:**
-   ```
-   flutter run
-   ```
-
-Ensure you have Flutter installed on your system before running the app.
-
-## Contributions
-
-Contributions are welcome! If you find a bug or have a feature suggestion, please open an issue. If you want to contribute code, please create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Happy tasking with Todoey!** 🚀
