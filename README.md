@@ -1,16 +1,54 @@
-# todoey_to_do_list
+# Todoey: Your Personal To-Do List App
 
-A new Flutter project.
+Todoey is a lightweight and intuitive to-do list application built during my Flutter Development course. It's designed to help you stay organized, productive, and on top of your tasks. With Todoey, you can easily add, delete, and mark tasks as completed. The app also utilizes shared preferences to store and retrieve your tasks, ensuring that your to-do list is saved even when you close the app.
+
+## Features
+
+- **Add Tasks:** Quickly add tasks to your to-do list.
+- **Delete Tasks:** Remove tasks you no longer need.
+- **Complete Tasks:** Mark tasks as completed to keep track of your progress.
+- **Persistent Storage:** Utilizes shared preferences to save your tasks for future use.
+- **Intuitive Interface:** User-friendly design for a seamless task management experience.
+
+## How to Use
+
+1. **Add a Task:** Tap the "+" button and enter your task in the provided field. Press "Add" to add the task to your list.
+
+2. **Delete a Task:** Swipe left on a task to reveal the delete button. Tap the delete button to remove the task from your list.
+
+3. **Complete a Task:** Tap on a task to mark it as completed. Completed tasks are indicated by a checkmark.
+
+4. **Persistent Storage:** Your tasks are automatically saved using shared preferences, ensuring that your to-do list persists even if you close the app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with Todoey, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the Repository:**
+   ```
+   git clone https://github.com/your-username/todoey.git
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Navigate to the Project Directory:**
+   ```
+   cd todoey
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Run the App:**
+   ```
+   flutter run
+   ```
+
+Ensure you have Flutter installed on your system before running the app.
+
+## Contributions
+
+Contributions are welcome! If you find a bug or have a feature suggestion, please open an issue. If you want to contribute code, please create a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Happy tasking with Todoey!** 🚀
