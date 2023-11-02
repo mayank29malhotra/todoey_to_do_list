@@ -1,6 +1,6 @@
 # Todoey: Your Personal To-Do List App
 
-Todoey is a lightweight and intuitive to-do list application built during my Flutter Development course. It's designed to help you stay organized, productive, and on top of your tasks. With Todoey, you can easily add, delete, and mark tasks as completed. The app also utilizes shared preferences to store and retrieve your tasks, ensuring that your to-do list is saved even when you close the app.
+Todoey is a lightweight and intuitive to-do list application built during my Flutter Development course. It's designed to help you stay organized, productive, and on top of your tasks. With Todoey, you can easily add, delete, and mark tasks as completed. The app also utilizes shared preferences to store and retrieve your tasks, ensuring that your to-do list is saved even when you close the app. The App uses the Providers Package for the State Management.
 
 ## Features
 
