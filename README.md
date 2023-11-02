@@ -20,3 +20,12 @@ Todoey is a lightweight and intuitive to-do list application built during my Flu
 
 4. **Persistent Storage:** Your tasks are automatically saved using shared preferences, ensuring that your to-do list persists even if you close the app.
 
+
+## User Interface
+1) Form to Input the Information:
+<img src="https://github.com/mayank29malhotra/InterVSim/blob/master/1.jpg?raw=true" alt="alt text" width="250px">
+<img src="https://github.com/mayank29malhotra/InterVSim/blob/master/2.jpg?raw=true" alt="alt text" width="250px">
+
+2) Questions Generation on the Basis of the form Data
+<img src="https://github.com/mayank29malhotra/InterVSim/blob/master/3.jpg?raw=true" alt="alt text" width="250px">
+
